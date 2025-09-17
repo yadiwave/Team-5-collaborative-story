@@ -1,7 +1,7 @@
-#As the terminal folk call for help, the SyntaxScoundrels acknowledge the villian
+#As the terminal folk call for help, the SyntaxScoundrels acknowledge the villain
 #An INDENTATION ERROR has appeared!
 
-def Villian_Introduction():
+def Villain_Introduction():
   print("I am the Indentation Error and I have come to bug your code!")
 
-Villian_Introduction()
+Villain_Introduction()
