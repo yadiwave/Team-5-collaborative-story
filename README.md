@@ -12,5 +12,5 @@ The terminal lights up, colors abound, squiggly lines and arrows guide the Scoun
 The Scoundrels Try to investigate the syntax lines and find the Error terrorizing the terminal city and its good people of variables. 
 and they say: "There has to be a missing indent here SOMEWHERE?!""There! Its line 48, right below the function definition!""Someone activate the T.A.B. prototcol stat!"
 The scoundrels finally suspect the evil villain to be a nasty logic error so the T.A.B protocol is activated and the logic error comes out hiding.
-The story ends in a cliff hanger until the next episode of SyntaxScoundrels and the credits roll: 
 After the scoundrels successfully defeat the indentation error, another threat emerges...The enemy isn't made of syntax but rather logic.How will they solve something larger that attacks their brains, emotions, and their sleep schedule?
+they once again put their programming skills together and fix the logic error: the logic was flawed...Conditions rethought, flow corrected.The program breathes easy once more.The cursor blinks, waiting for the next puzzle to unfold...the ending comes and the credits roll. with a closing of 3 seconds.
