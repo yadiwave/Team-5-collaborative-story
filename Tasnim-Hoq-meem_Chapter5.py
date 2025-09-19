@@ -10,4 +10,4 @@ import time
 while True:
     print("The cursor blinks, waiting for the next puzzle to unfold...")
     time.sleep(3)
-    break  # remove break to keep watch forever
+    break 
